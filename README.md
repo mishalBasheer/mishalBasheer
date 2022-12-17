@@ -1,4 +1,4 @@
-- 👋 Hi, I’m MIsha Baheer
+- 👋 Hi, I’m MIshal Basheer
 - 👀 I’m interested in Deep Coding and MEAN Stack Web Development
 - 🌱 I’m currently learning Angular
 - 💞️ I’m looking to collaborate on Full Stack Web Development Projects
